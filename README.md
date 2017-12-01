@@ -1,6 +1,7 @@
 # n-gram
 a simple 2-gram project
 这是一个简单的基于2-gram的分词练习
+	
 	语料库文件名为 北大(人民日报)语料库199801.txt  
 	文件编码格式为无BOM的utf-8
 
